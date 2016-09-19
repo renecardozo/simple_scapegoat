@@ -1,16 +1,16 @@
-Scapegoat
+Simple scapegoat
 =========
 
 A small library providing utility methods to `escape` and `unescape` HTML entities
 
 ## Installation
 
-  npm install scapegoat --save
+  npm install simple_scapegoat --save
 
 ## Usage
 
 ```js
-  var scapegoat = require('scapegoat')
+  var scapegoat = require('simple_scapegoat')
       escape = scapegoat.escape,
       unescape = scapegoat.unescape;
 
@@ -34,4 +34,4 @@ Add unit tests for any new or changed functionality. Lint and test your code.
 
 ## Release History
 
-* 0.1.0 Initial release
+* 0.1.1 Initial release
