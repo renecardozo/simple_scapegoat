@@ -1,0 +1,31 @@
+{
+  "name": "simple_scapegoat",
+  "version": "0.1.0",
+  "description": "A little tool to sinitize a html page ",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/renecardozo/simple_scapegoat.git"
+  },
+  "keywords": [
+    "scapegoat"
+  ],
+  "author": "Rene Cardozo <rene.cardozo.2014@gmail.com>",
+  "license": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/renecardozo/simple_scapegoat/blob/master/LICENSE"
+    }
+  ],
+  "bugs": {
+    "url": "https://github.com/renecardozo/simple_scapegoat/issues"
+  },
+  "homepage": "https://github.com/renecardozo/simple_scapegoat#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.0.2"
+  }
+}
