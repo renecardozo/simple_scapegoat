@@ -1,6 +1,6 @@
 {
   "name": "simple_scapegoat",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "description": "A little tool to sinitize a html page ",
   "main": "index.js",
   "scripts": {
